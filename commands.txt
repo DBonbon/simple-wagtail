@@ -1,0 +1,2 @@
+167.172.178.235
+ssh -i C:\Users\anica\.ssh\do4 root@167.172.178.235
