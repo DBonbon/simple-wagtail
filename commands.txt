@@ -1,9 +1,10 @@
 167.172.178.235
-ssh -i C:\Users\anica\.ssh\do4 root@167.71.37.219
-ssh -i C:\Users\anica\.ssh\do4 nuser@167.71.37.219
+ssh -i C:\Users\anica\.ssh\do4 root@167.172.167.202
+ssh -i C:\Users\anica\.ssh\do4 nuser@64.226.105.35
 
 
-
+ssh -i C:\Users\anica\.ssh\do3 root@134.209.248.188
+ssh -i C:\Users\anica\.ssh\do4 nuser@134.209.248.188
 
 
 
